@@ -9,13 +9,13 @@ How to load datasets (built-in or external)
 
 Creating common plot types:
 
-Line Plot
-Bar Plot
-Histogram
-Box Plot
-Violin Plot
-Scatter Plot
-Heatmap
-Pairplot
-Customizing plots with styles, colors, and themes
-Adding labels, titles, and annotations
+Line Plot,
+Bar Plot,
+Histogram,
+Box Plot,
+Violin Plot,
+Scatter Plot,
+Heatmap,
+Pairplot,
+Customizing plots with styles, colors, and themes,
+Adding labels, titles, and annotations.
